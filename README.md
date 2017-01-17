@@ -1,2 +1,2 @@
 # civics
-Helper scripts used in civics
+A collection of helper scripts that automate civil workflows
